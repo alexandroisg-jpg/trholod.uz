@@ -6,7 +6,7 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "workers_dev": false,
+  "workers_dev": true,
   "preview_urls": false,
   "assets": {
     "run_worker_first": false,
@@ -16,13 +16,20 @@
     {
       "binding": "DB",
       "database_name": "trholod-db",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "c891abfa-98a4-4f6d-8a13-c10a598a80a6",
       "migrations_dir": "drizzle"
     }
   ],
-  "vars": {
-    "CLOUDFLARE_ACCESS_TEAM_DOMAIN": "",
-    "CLOUDFLARE_ACCESS_AUD": "",
-    "OWNER_EMAIL": ""
-  }
+  "vars": {},
+  "account_id": "2dc12cf7064c0d22f83117327e8c4660",
+  "routes": [
+    {
+      "pattern": "trholod.uz",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.trholod.uz",
+      "custom_domain": true
+    }
+  ]
 }

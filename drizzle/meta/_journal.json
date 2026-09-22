@@ -15,6 +15,13 @@
       "when": 1790072515887,
       "tag": "0001_gray_nomad",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790080682144,
+      "tag": "0002_owner_login_limits",
+      "breakpoints": true
     }
   ]
 }

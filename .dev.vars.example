@@ -1,2 +1,5 @@
-# Copy to .dev.vars; this file contains no working credentials.
-ADMIN_ACCESS_KEY_SHA256=replace_with_sha256_of_a_random_manager_key
+# Local-only values. Generate your own secrets; never commit .dev.vars.
+# The published Worker uses encrypted runtime secrets in the owner's Cloudflare.
+ADMIN_ACCESS_KEY_SHA256=
+SESSION_SECRET=
+OWNER_EMAIL=owner@example.com

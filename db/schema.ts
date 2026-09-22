@@ -8,3 +8,7 @@ export const orders = sqliteTable('orders', {
 }, t=>[uniqueIndex('orders_user_request_unique').on(t.userId,t.requestKey),index('orders_user_created_idx').on(t.userId,t.createdAt)]);
 export const notifications = sqliteTable('notifications', { id:text('id').primaryKey(), orderId:text('order_id').notNull().references(()=>orders.id), recipient:text('recipient').notNull(), channel:text('channel').notNull().default('unconfigured'), status:text('status').notNull().default('not_configured'), createdAt:text('created_at').notNull() });
 export const settings = sqliteTable('settings',{key:text('key').primaryKey(),value:text('value').notNull()});
+
+export const ownerLoginLimits = sqliteTable('owner_login_limits', {
+ bucket:text('bucket').primaryKey(), windowStart:integer('window_start').notNull(), attempts:integer('attempts').notNull(), nextAllowedAt:integer('next_allowed_at').notNull()
+}, t=>[index('owner_login_limits_window_idx').on(t.windowStart), check('owner_login_attempts_nonnegative',sql`${t.attempts} >= 0`)]);
