@@ -1,0 +1,1051 @@
+[
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "TLES4.8KK.3",
+    "series": "TL/TLES",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R600a"
+    ],
+    "descriptionRu": "Низкотемпературный герметичный компрессор серии TLES для холодильной техники. Архивная модель.",
+    "sourceUrl": "https://www.secop.com/fileadmin/user_upload/obsolete-compressors/tles48kk3_102h4598_r600a_220v_50hz_03-2014_desd505y102.pdf",
+    "sourceType": "official manufacturer datasheet",
+    "productCode": "102H4598",
+    "applicationClass": "LBP",
+    "status": "archived / discontinued family",
+    "statusSourceUrl": "https://www.secop.com/updates/end-of-life-eol",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/2/b/csm_secop-tl-compressor_0dd00e2168.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии TL. Архивная серия.",
+      "publicReusePermissionVerified": false,
+      "note": "Official page labels this family discontinued.",
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-tl-family.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "TL5G",
+    "series": "TL",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a",
+      "R513A"
+    ],
+    "descriptionRu": "Универсальная модель серии TL для холодильной техники. Архивная серия.",
+    "sourceUrl": "https://www.secop.com/fileadmin/user_upload/obsolete-compressors/tl5g_102g4550_r134a-r513a_220v_50hz_60hz_04-2023_ds.pdf",
+    "sourceType": "official manufacturer datasheet",
+    "productCode": "102G4550",
+    "applicationClass": "LBP/MBP/HBP; depends on configuration",
+    "status": "archived / discontinued family",
+    "statusSourceUrl": "https://www.secop.com/updates/end-of-life-eol",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/2/b/csm_secop-tl-compressor_0dd00e2168.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии TL. Архивная серия.",
+      "publicReusePermissionVerified": false,
+      "note": "Official page labels this family discontinued.",
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-tl-family.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "NL6.1MF",
+    "series": "NL",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a",
+      "R513A"
+    ],
+    "descriptionRu": "Герметичный компрессор серии NL для холодильных применений LBP и MBP.",
+    "sourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/105G6660",
+    "sourceType": "official manufacturer selector",
+    "productCode": "105G6660",
+    "applicationClass": "LBP/MBP; depends on configuration",
+    "status": "listed active in official selector",
+    "statusSourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/105G6660",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/a/d/csm_secop-nl-compressor_29aa185581.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии NL.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-nl-cutaway.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "NL11F",
+    "series": "NL",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a"
+    ],
+    "descriptionRu": "Низкотемпературная модель серии NL для холодильной техники.",
+    "sourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/105G6900",
+    "sourceType": "official manufacturer selector",
+    "productCode": "105G6900",
+    "applicationClass": "LBP",
+    "status": "listed active in official selector",
+    "statusSourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/105G6900",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/a/d/csm_secop-nl-compressor_29aa185581.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии NL.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-nl-cutaway.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "FR8.5G",
+    "series": "FR",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a"
+    ],
+    "descriptionRu": "Универсальный холодильный компрессор серии FR. Архивная модель.",
+    "sourceUrl": "https://www.secop.com/fileadmin/user_upload/obsolete-compressors/fr85g_103g6780_r134a_220v_50hz_60hz_08-2012_desd401m202.pdf",
+    "sourceType": "official manufacturer datasheet",
+    "productCode": "103G6780",
+    "applicationClass": "LBP/HBP at 50 Hz; LBP at 60 Hz",
+    "status": "archived / discontinued family",
+    "statusSourceUrl": "https://www.secop.com/updates/end-of-life-eol",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/d/0/csm_secop-fr-compressor_4393b93009.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии FR. Архивная серия.",
+      "publicReusePermissionVerified": false,
+      "note": "Official page labels this family discontinued.",
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-fr-family.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "FR10G",
+    "series": "FR",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a"
+    ],
+    "descriptionRu": "Герметичный холодильный компрессор серии FR. Архивная модель.",
+    "sourceUrl": "https://www.secop.com/fileadmin/user_upload/obsolete-compressors/fr10g_103g6890_r134a_220v_50hz_60hz_08-2012_desd401p202.pdf",
+    "sourceType": "official manufacturer datasheet",
+    "productCode": "103G6890",
+    "applicationClass": "LBP/HBP at 50 Hz; LBP at 60 Hz",
+    "status": "archived / discontinued family",
+    "statusSourceUrl": "https://www.secop.com/updates/end-of-life-eol",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/d/0/csm_secop-fr-compressor_4393b93009.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии FR. Архивная серия.",
+      "publicReusePermissionVerified": false,
+      "note": "Official page labels this family discontinued.",
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-fr-family.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "SC12CL",
+    "series": "SC",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R452A"
+    ],
+    "descriptionRu": "Низкотемпературный компрессор серии SC для холодильного оборудования.",
+    "sourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/104L2623",
+    "sourceType": "official manufacturer selector",
+    "productCode": "104L2623",
+    "applicationClass": "LBP",
+    "status": "listed active in official selector",
+    "statusSourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/104L2623",
+    "image": {
+      "sourcePage": "https://www.secop.com/products/hermetic-compressors-basics",
+      "imageUrl": "https://www.secop.com/fileadmin/_processed_/c/e/csm_secop-sc-compressor_5b096b629f.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Secop GmbH",
+      "matchLevel": "official series cutaway illustration; not exact model photo",
+      "captionRu": "Иллюстрация конструкции серии SC.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "All rights reserved.",
+      "rightsSourceUrl": "https://www.secop.com/terms-and-conditions/terms-and-conditions-of-use"
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/secop-sc-cutaway.webp"
+  },
+  {
+    "brand": "Secop",
+    "brandLabelRu": "Danfoss / Secop",
+    "model": "SC18CL",
+    "series": "SC",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R452A"
+    ],
+    "descriptionRu": "Низкотемпературная модель серии SC для холодильного оборудования.",
+    "sourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/104L2123",
+    "sourceType": "official manufacturer selector",
+    "productCode": "104L2123",
+    "applicationClass": "LBP",
+    "status": "listed active in official selector",
+    "statusSourceUrl": "https://www.secop.com/products/product-selector/application-search/variants/104L2123",
+    "image": {
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Compressor_Danfoss_SC18CL.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Compressor_Danfoss_SC18CL.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Лобачев Владимир / Wikimedia Commons",
+      "matchLevel": "exact model and code: SC18CL 104L2123; historical photo",
+      "captionRu": "Danfoss / Secop SC18CL. Фото одного из исполнений.",
+      "publicReusePermissionVerified": true,
+      "sha1": "c2b1f2a2a93b507285776ced270be1a073f3aedc",
+      "rightsText": "CC BY-SA 4.0",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Compressor_Danfoss_SC18CL.jpg",
+      "note": "Existing site asset byte-identical SHA-1 to Commons original; nameplate Secop with extra Danfoss sticker. License requires attribution and link; same license for adaptations."
+    },
+    "brandNoteRu": "Secop — бывшее подразделение Danfoss Household Compressors.",
+    "brandHistorySourceUrl": "https://www.secop.com/about/who-we-are/history",
+    "siteBrand": "Danfoss / Secop",
+    "siteImage": "/products/compressor.jpg"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "EMX55CLC",
+    "series": "EM",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R600a"
+    ],
+    "descriptionRu": "Модель семейства EM для низкотемпературной холодильной техники.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 98,
+    "productCode": null,
+    "applicationClass": "LBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/em-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCRRBVV8SMJDY5S9BE5QM3YT-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии EM. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/em-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-em-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "EMT45HDR",
+    "series": "EM",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R134a"
+    ],
+    "descriptionRu": "Холодильный компрессор семейства EM для применений HBP.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 42,
+    "productCode": null,
+    "applicationClass": "HBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/em-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCRRBVV8SMJDY5S9BE5QM3YT-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии EM. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/em-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-em-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "EMT2121U",
+    "series": "EM",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R290"
+    ],
+    "descriptionRu": "Низкотемпературный холодильный компрессор семейства EM.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 82,
+    "productCode": null,
+    "applicationClass": "LBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/em-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCRRBVV8SMJDY5S9BE5QM3YT-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии EM. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/em-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-em-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "EMC3134U",
+    "series": "EM",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R290"
+    ],
+    "descriptionRu": "Модель семейства EM для холодильных применений LBP и MBP.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 82,
+    "productCode": null,
+    "applicationClass": "L/MBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/em-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCRRBVV8SMJDY5S9BE5QM3YT-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии EM. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/em-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-em-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "NEK6210GK",
+    "series": "NE",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R507"
+    ],
+    "descriptionRu": "Среднетемпературный компрессор семейства NE для коммерческого холода.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 64,
+    "productCode": null,
+    "applicationClass": "MBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/ne-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCPKWPBG7RJD15VYS2DXXAWV-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии NE. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/ne-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-ne-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "NEU6215GK",
+    "series": "NE",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R507"
+    ],
+    "descriptionRu": "Компрессор семейства NE для среднетемпературного холодильного оборудования.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 64,
+    "productCode": null,
+    "applicationClass": "MBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/ne-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCPKWPBG7RJD15VYS2DXXAWV-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии NE. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/ne-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-ne-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "NT6222GK",
+    "series": "NT",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R507"
+    ],
+    "descriptionRu": "Модель семейства NT для среднетемпературного коммерческого холода.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 64,
+    "productCode": null,
+    "applicationClass": "MBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/nt-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KCSHKBHHV959ZX3J7N5A69SX-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии NT. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/nt-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-nt-family.webp"
+  },
+  {
+    "brand": "Embraco",
+    "brandLabelRu": "Embraco",
+    "model": "NJ9238GK",
+    "series": "NJ",
+    "application": "refrigeration",
+    "refrigerants": [
+      "R404A",
+      "R507"
+    ],
+    "descriptionRu": "Компрессор семейства NJ для коммерческого холодильного оборудования.",
+    "sourceUrl": "https://www.embraco.com/en/documents/download/o0sye",
+    "sourceType": "official 2026 Compressor Catalog for Europe",
+    "sourcePdfPage": 66,
+    "productCode": null,
+    "applicationClass": "M/HBP",
+    "status": "listed in official Europe 2026 catalog; local availability unknown",
+    "image": {
+      "sourcePage": "https://www.embraco.com/en/products/nj-series",
+      "imageUrl": "https://www.embraco.com/cache/product/01KKEK2KH1VS2ET318CD4MA6P2-533-382-fit.webp",
+      "license": "All rights reserved; no open reuse license verified",
+      "credit": "Embraco",
+      "matchLevel": "series",
+      "captionRu": "Иллюстрация серии NJ. Внешний вид конкретного исполнения может отличаться.",
+      "publicReusePermissionVerified": false,
+      "rightsText": "O material deste site não deve ser reproduzido, distribuído, transmitido, salvo ou usado sem a permissão explícita da Embraco.",
+      "rightsSourceUrl": "https://www.embraco.com/en/products/nj-series"
+    },
+    "verification": "Catalog row and refrigerant header visually verified in source PDF.",
+    "siteBrand": "Embraco",
+    "siteImage": "/products/embraco-nj-family.webp"
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DA130A1F-25F",
+    "series": "DA · Twin Rotary",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Двухроторный компрессор с инверторным управлением для кондиционеров Toshiba на R410A. Указан в документации RAS-M18UAV-E.",
+    "sourceUrl": "https://www.toshiba-aircon.co.uk/wp-content/uploads/2017/09/Current_20130918_Outdoor_M18UAV-E_SM_A10-024_RAS-M18UAV-E____EN_01.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_25f_15075_1_a5274a2ed1760f9a58dd90c3a7367d42.jpg",
+      "sourcePageUrl": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-25f",
+      "representative": false,
+      "captionRu": "Toshiba DA130A1F-25F: фотография модели.",
+      "attribution": "Refriparts product photograph; original Refriparts watermark retained; label visibly identifies Toshiba Carrier DA130A1F-25F",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "DA130A1F-25F",
+      "watermark": "Refriparts — preserve",
+      "widthPx": 1600,
+      "heightPx": 1200
+    },
+    "sourceType": "Official manufacturer service catalogue; component identification only",
+    "stockStatus": "not-verified",
+    "sourcePageNote": "Official manufacturer specification table and electrical-parts model identification; historical service documentation, no stock claim.",
+    "siteBrand": "Toshiba",
+    "siteImage": "/products/toshiba-da130a1f-25f.webp"
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DA111A1F-20F1",
+    "series": "DA · Twin Rotary",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Компрессор для инверторных кондиционеров Toshiba на R410A. Указан в документации наружного блока RAS-M14GAV-E.",
+    "sourceUrl": "https://toshiba-aircon.co.uk/assets/uploads/product_assets/20121029_SM_A05-009_RAS-M__GAV-E_14-18_EN_01.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_25f_15075_1_a5274a2ed1760f9a58dd90c3a7367d42.jpg",
+      "sourcePageUrl": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-25f",
+      "representative": true,
+      "captionRu": "Компрессор Toshiba серии DA. На фото DA130A1F-25F; изображение представительное, не точная модификация карточки.",
+      "attribution": "Refriparts product photograph; original Refriparts watermark retained; label visibly identifies Toshiba Carrier DA130A1F-25F",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "DA130A1F-25F",
+      "watermark": "Refriparts — preserve",
+      "widthPx": 1600,
+      "heightPx": 1200
+    },
+    "sourceType": "Official manufacturer service catalogue; component identification only",
+    "stockStatus": "not-verified",
+    "sourcePageNote": "Official manufacturer specification table and electrical-parts model identification; historical service documentation, no stock claim.",
+    "siteBrand": "Toshiba",
+    "siteImage": "/products/toshiba-da130a1f-25f.webp"
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DA89X1C-23FZ2",
+    "series": "DA · Rotary",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Компрессор инверторных кондиционеров Toshiba RAS-10SAV2-E и RAS-13SAV2-E на R410A.",
+    "sourceUrl": "https://www.toshiba-aircon.co.uk/wp-content/uploads/2017/09/Current_20101012_Bi_Flow_N3AV2_SM_SVM10044_RAS-__UFV-E_B10-B13-B18_EN_01.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_25f_15075_1_a5274a2ed1760f9a58dd90c3a7367d42.jpg",
+      "sourcePageUrl": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-25f",
+      "representative": true,
+      "captionRu": "Компрессор Toshiba серии DA. На фото DA130A1F-25F; изображение представительное, не точная модификация карточки.",
+      "attribution": "Refriparts product photograph; original Refriparts watermark retained; label visibly identifies Toshiba Carrier DA130A1F-25F",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "DA130A1F-25F",
+      "watermark": "Refriparts — preserve",
+      "widthPx": 1600,
+      "heightPx": 1200
+    },
+    "sourceType": "Official manufacturer service catalogue; component identification only",
+    "stockStatus": "not-verified",
+    "sourcePageNote": "Official manufacturer specification table and electrical-parts model identification; historical service documentation, no stock claim.",
+    "siteBrand": "Toshiba",
+    "siteImage": "/products/toshiba-da130a1f-25f.webp"
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DA130A1F-27F",
+    "series": "DA · Twin Rotary",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Компрессор для кондиционера Toshiba RAS-18SAV2-E на R410A; точный код подтверждён сервисным каталогом.",
+    "sourceUrl": "https://www.toshiba-aircon.co.uk/wp-content/uploads/2017/09/Current_20101012_Bi_Flow_N3AV2_SM_SVM10044_RAS-__UFV-E_B10-B13-B18_EN_01.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_25f_15075_1_a5274a2ed1760f9a58dd90c3a7367d42.jpg",
+      "sourcePageUrl": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-25f",
+      "representative": true,
+      "captionRu": "Компрессор Toshiba серии DA. На фото DA130A1F-25F; изображение представительное, не точная модификация карточки.",
+      "attribution": "Refriparts product photograph; original Refriparts watermark retained; label visibly identifies Toshiba Carrier DA130A1F-25F",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "DA130A1F-25F",
+      "watermark": "Refriparts — preserve",
+      "widthPx": 1600,
+      "heightPx": 1200
+    },
+    "sourceType": "Official manufacturer service catalogue; component identification only",
+    "stockStatus": "not-verified",
+    "sourcePageNote": "Official manufacturer specification table and electrical-parts model identification; historical service documentation, no stock claim.",
+    "siteBrand": "Toshiba",
+    "siteImage": "/products/toshiba-da130a1f-25f.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KSK53D15UEZ3",
+    "series": "SK",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Однороторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KSN98D27UER31",
+    "series": "SN",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Однороторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KTK115D33UFZ3",
+    "series": "TK",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KTN150D53UFZ3",
+    "series": "TN",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KTM180D43UMT",
+    "series": "TM",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "GMCC",
+    "model": "KTF310D43UMT",
+    "series": "TF",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32",
+      "R410A"
+    ],
+    "descriptionRu": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A.",
+    "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "sourcePageUrl": "https://www.hvacrcompressor.com/downloadpdf/GMCC-rotary-compressor-catalogue.pdf",
+      "representative": true,
+      "captionRu": "Роторный компрессор GMCC: изображение семейства из каталога производителя.",
+      "attribution": "GMCC & Welling, Rotary Compressor Product Catalog 2024; distributor mirror; extracted embedded original JPEG from PDF page 9",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 321,
+      "heightPx": 431
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; models not marked under-development",
+    "cataloguePages": "11–12",
+    "stockStatus": "not-verified",
+    "siteBrand": "GMCC",
+    "siteImage": "/products/gmcc-rotary-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "ASD102SKQ-6B",
+    "series": "D",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Инверторный компрессор для систем кондиционирования на R410A.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "ASG133SKQ",
+    "series": "G",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Инверторный компрессор для систем кондиционирования на R410A.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "ATL232UDP-1",
+    "series": "L",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Инверторный компрессор для систем кондиционирования на R410A.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "ATH307SD",
+    "series": "TH",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Инверторный компрессор для систем кондиционирования на R410A.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "ASH184TV-1",
+    "series": "H",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R410A"
+    ],
+    "descriptionRu": "Роторный компрессор постоянной скорости для кондиционеров на R410A.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Highly",
+    "model": "GSD088SKQ-6",
+    "series": "D",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32"
+    ],
+    "descriptionRu": "Инверторный компрессор для систем кондиционирования на R32.",
+    "sourceUrl": "https://www.philexi.com/down-load/Highly-rotary-compressor-catalogue.pdf",
+    "imageInfo": {
+      "sourceUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755506816815988489862750208.png",
+      "sourcePageUrl": "https://www.zee-cool.com/products/Rotary-Compressor/Highly-Rotary-Compressor/Inverter-R410A-Rotary-Compressor-for-HIGHLY-ASD102SFNA7JT6-Refrigeration-Compressor.html",
+      "representative": true,
+      "captionRu": "Компрессор Highly серии D. На фото ASD102SFNA7JT6; изображение представительное, не точная модификация карточки.",
+      "attribution": "Photograph published by Guangzhou Jingzhe Refrigeration Equipment (Zee-Cool); label visibly identifies HIGHLY ASD102SFNA7JT6",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "imageModel": "ASD102SFNA7JT6",
+      "widthPx": 800,
+      "heightPx": 800
+    },
+    "sourceType": "Manufacturer-authored catalogue mirrored by distributor; manufacturer identity corroborated by highly.cc",
+    "stockStatus": "not-verified",
+    "siteBrand": "Highly",
+    "siteImage": "/products/highly-asd-family.webp"
+  },
+  {
+    "brand": "Panasonic",
+    "model": "9RS058HB",
+    "series": "R32 · R",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32"
+    ],
+    "descriptionRu": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32.",
+    "sourceUrl": "https://na.industrial.panasonic.com/products/hvacr-appliance-devices/compressors/rotary-compressors/series/150861",
+    "imageInfo": {
+      "sourceUrl": "https://assets.content.na.industrial.panasonic.com/public/2019-05/r-series-table.png",
+      "sourcePageUrl": "https://na.industrial.panasonic.com/complete-guide-rotary-compressors",
+      "representative": true,
+      "captionRu": "Компрессор Panasonic серии R: изображение семейства, не конкретной модели R32.",
+      "attribution": "Panasonic Industry; official rotary compressor guide",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 190,
+      "heightPx": 190
+    },
+    "sourceType": "Official manufacturer model list",
+    "stockStatus": "not-verified",
+    "siteBrand": "Panasonic",
+    "siteImage": "/products/panasonic-r-family.webp"
+  },
+  {
+    "brand": "Panasonic",
+    "model": "9RS096HA",
+    "series": "R32 · R",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32"
+    ],
+    "descriptionRu": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32.",
+    "sourceUrl": "https://na.industrial.panasonic.com/products/hvacr-appliance-devices/compressors/rotary-compressors/series/150861",
+    "imageInfo": {
+      "sourceUrl": "https://assets.content.na.industrial.panasonic.com/public/2019-05/r-series-table.png",
+      "sourcePageUrl": "https://na.industrial.panasonic.com/complete-guide-rotary-compressors",
+      "representative": true,
+      "captionRu": "Компрессор Panasonic серии R: изображение семейства, не конкретной модели R32.",
+      "attribution": "Panasonic Industry; official rotary compressor guide",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 190,
+      "heightPx": 190
+    },
+    "sourceType": "Official manufacturer model list",
+    "stockStatus": "not-verified",
+    "siteBrand": "Panasonic",
+    "siteImage": "/products/panasonic-r-family.webp"
+  },
+  {
+    "brand": "Panasonic",
+    "model": "9PS108HA",
+    "series": "R32 · P",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32"
+    ],
+    "descriptionRu": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32.",
+    "sourceUrl": "https://na.industrial.panasonic.com/products/hvacr-appliance-devices/compressors/rotary-compressors/series/150861",
+    "imageInfo": {
+      "sourceUrl": "https://assets.content.na.industrial.panasonic.com/public/2019-05/p-series-table.png",
+      "sourcePageUrl": "https://na.industrial.panasonic.com/complete-guide-rotary-compressors",
+      "representative": true,
+      "captionRu": "Компрессор Panasonic серии P: изображение семейства, не конкретной модели R32.",
+      "attribution": "Panasonic Industry; official rotary compressor guide",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 190,
+      "heightPx": 190
+    },
+    "sourceType": "Official manufacturer model list",
+    "stockStatus": "not-verified",
+    "siteBrand": "Panasonic",
+    "siteImage": "/products/panasonic-p-family.webp"
+  },
+  {
+    "brand": "Panasonic",
+    "model": "9KS170HA",
+    "series": "R32 · K",
+    "application": "air-conditioning",
+    "refrigerants": [
+      "R32"
+    ],
+    "descriptionRu": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32.",
+    "sourceUrl": "https://na.industrial.panasonic.com/products/hvacr-appliance-devices/compressors/rotary-compressors/series/150861",
+    "imageInfo": {
+      "sourceUrl": "https://assets.content.na.industrial.panasonic.com/public/2019-05/k-series-table.png",
+      "sourcePageUrl": "https://na.industrial.panasonic.com/complete-guide-rotary-compressors",
+      "representative": true,
+      "captionRu": "Компрессор Panasonic серии K: изображение семейства, не конкретной модели R32.",
+      "attribution": "Panasonic Industry; official rotary compressor guide",
+      "reuseStatus": "Copyrighted source; no open licence found; attribution is not a licence.",
+      "widthPx": 190,
+      "heightPx": 190
+    },
+    "sourceType": "Official manufacturer model list",
+    "stockStatus": "not-verified",
+    "siteBrand": "Panasonic",
+    "siteImage": "/products/panasonic-k-family.webp"
+  }
+]

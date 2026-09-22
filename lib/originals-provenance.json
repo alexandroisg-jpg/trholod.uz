@@ -1,0 +1,1101 @@
+{
+  "checkedAt": "2026-09-22",
+  "products": {
+    "premium-r003": {
+      "fields": {
+        "title": "Хладагент TR Gas R600a · 420 г",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R600a",
+        "specification": "420 г · баллончик",
+        "description": "Хладагент R600a из каталога TR Gas / Tura. Фасовка 420 г. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования. R600a — изобутан; не путать с R600. На витрине показан баллончик 420 г.",
+        "price": 0
+      },
+      "image": {
+        "code": "R600a",
+        "sourcePage": "https://www.turaiklimlendirme.com/en/r600a-gas/",
+        "imageUrl": "https://www.turaiklimlendirme.com/wp-content/uploads/2024/05/r600a-2.png",
+        "brand": "TR Gas / Tura catalog",
+        "packSize": "420 g",
+        "width": 1080,
+        "height": 1080,
+        "rightsInfo": "Original manufacturer website image; no explicit reuse license located.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": false,
+        "verification": "Exact refrigerant code and pack size read visually. Manufacturer gallery original; TR-GAS wordmark is not on the visible front label.",
+        "status": "official_catalog_original_not_logo_visible",
+        "priceUzs": null,
+        "priceSource": "https://www.sogutmadeposu.com/r600a-sogutucu-gaz-tr-gas-789",
+        "unverifiedPriceReference": {
+          "amountTry": 251.1,
+          "approxUzs": 61000,
+          "packMatchVerified": false,
+          "inference": "Page main image depicts 420 g can and box; text lists 420 g, 5.7 kg, 28.5 kg. Price may apply to lowest size but selected pack was not unambiguously identified.",
+          "recommendedDisplay": "Price on request; if demo value is required, clearly mark as tentative reference."
+        },
+        "recommended": true,
+        "slug": "trgas-r600a",
+        "caption": "Фото из каталога Tura · R600a · 420 г",
+        "label": "TR Gas R600a · 420 г"
+      },
+      "source": "https://www.turaiklimlendirme.com/en/r600a-gas/"
+    },
+    "demo-r2": {
+      "fields": {
+        "title": "Хладагент TR Gas R410A · 10 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R410A",
+        "specification": "10 кг · баллон",
+        "description": "Хладагент R410A из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 2550000
+      },
+      "image": {
+        "code": "R410A",
+        "brand": "TR-GAS",
+        "sourcePage": "https://www.212yedekparca.com/r410a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r410a-sogutucu-gaz",
+        "imageUrl": "https://www.212yedekparca.com/img/products/tr-gas-r410a-sogutucu-gaz-3315c3c.jpeg",
+        "width": 545,
+        "height": 597,
+        "packSize": "10 kg",
+        "rightsInfo": "Original dealer photograph. No explicit reuse license found; preserve any watermark.",
+        "priceTry": 10540.99,
+        "priceSource": "https://www.212yedekparca.com/r410a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r410a-sogutucu-gaz",
+        "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": true,
+        "status": "verified_logo_and_code",
+        "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
+        "referencePriceUzs": 2551025,
+        "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
+        "conversionTryUzs": 242.01,
+        "recommended": true,
+        "slug": "trgas-r410a",
+        "caption": "Оригинальное фото TR Gas · R410A · 10 кг",
+        "label": "TR Gas R410A · 10 кг"
+      },
+      "source": "https://www.212yedekparca.com/r410a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r410a-sogutucu-gaz",
+      "priceReference": {
+        "url": "https://www.212yedekparca.com/r410a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r410a-sogutucu-gaz",
+        "label": "Цена турецкого продавца",
+        "note": "Ориентир: 10,540.99 TRY × 242,01 сум по курсу ЦБ от 22.09.2026, округлено. Доставка и импортные расходы не включены; цена магазина требует подтверждения."
+      }
+    },
+    "premium-r004": {
+      "fields": {
+        "title": "Хладагент TR Gas R32 · 9 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R32",
+        "specification": "9 кг · баллон",
+        "description": "Хладагент R32 из каталога TR Gas / Tura. Фасовка 9 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 2010000
+      },
+      "image": {
+        "code": "R32",
+        "sourcePage": "https://www.turaiklimlendirme.com/en/r32-gas/",
+        "imageUrl": "https://www.turaiklimlendirme.com/wp-content/uploads/2024/05/r32.png",
+        "brand": "TR Gas / Tura catalog",
+        "packSize": "9 kg",
+        "width": 1080,
+        "height": 1080,
+        "rightsInfo": "Original manufacturer website image; no explicit reuse license located.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": false,
+        "verification": "Exact refrigerant code and pack size read visually. Manufacturer gallery original; TR-GAS wordmark is not on the visible front label.",
+        "status": "official_catalog_original_not_logo_visible",
+        "priceTry": 8290,
+        "priceSource": "https://erolsogutma.com/tr-gas-r32-tekrar-doldurulabilir-tupte-9kg-sogutucu-akiskan",
+        "priceNotes": "Actual Turkish reference price in dealer product JSON-LD, checked 2026-09-22, TR Gas R32 9 kg. Not user store price.",
+        "referencePriceUzs": 2006263,
+        "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
+        "conversionTryUzs": 242.01,
+        "recommended": true,
+        "slug": "trgas-r32",
+        "caption": "Фото из каталога Tura · R32 · 9 кг",
+        "label": "TR Gas R32 · 9 кг"
+      },
+      "source": "https://www.turaiklimlendirme.com/en/r32-gas/",
+      "priceReference": {
+        "url": "https://erolsogutma.com/tr-gas-r32-tekrar-doldurulabilir-tupte-9kg-sogutucu-akiskan",
+        "label": "Цена турецкого продавца",
+        "note": "Ориентир: 8,290.00 TRY × 242,01 сум по курсу ЦБ от 22.09.2026, округлено. Доставка и импортные расходы не включены; цена магазина требует подтверждения."
+      }
+    },
+    "demo-r1": {
+      "fields": {
+        "title": "Хладагент TR Gas R134a · 13,6 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R134a",
+        "specification": "13,6 кг · баллон",
+        "description": "Хладагент R134a из каталога TR Gas / Tura. Фасовка 13,6 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 1707000
+      },
+      "image": {
+        "code": "R134a",
+        "brand": "TR-GAS",
+        "sourcePage": "https://automaster.uz/products/xladagent-freon-r134a-13-6kg-turetskiy-tr-gas-15512",
+        "imageUrl": "https://automaster.uz/storage/image-2023-03-14-16-29-15.png",
+        "width": 853,
+        "height": 1062,
+        "packSize": "13.6 kg",
+        "rightsInfo": "Original dealer photograph. No explicit reuse license found; preserve any watermark.",
+        "priceUzs": 1707000,
+        "priceSource": "https://automaster.uz/products/xladagent-freon-r134a-13-6kg-turetskiy-tr-gas-15512",
+        "priceNotes": "Actual Uzbek retailer reference, checked 2026-09-22. Page says under order / out of stock. Not user store price.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": true,
+        "status": "verified_logo_code_and_pack_size",
+        "verification": "Visually read TR-GAS R134a and NET WEIGHT 30lbs 13.6KG. Light blue disposable cylinder. Product page labels Turkish.",
+        "recommended": true,
+        "slug": "trgas-r134a",
+        "caption": "Оригинальное фото TR Gas · R134a · 13,6 кг",
+        "label": "TR Gas R134a · 13,6 кг"
+      },
+      "source": "https://automaster.uz/products/xladagent-freon-r134a-13-6kg-turetskiy-tr-gas-15512",
+      "priceReference": {
+        "url": "https://automaster.uz/products/xladagent-freon-r134a-13-6kg-turetskiy-tr-gas-15512",
+        "label": "Цена узбекского продавца",
+        "note": "Ориентир Automaster на 22.09.2026. Цена и наличие у поставщика не являются прайсом и остатком TR HOLOD."
+      }
+    },
+    "premium-r005": {
+      "fields": {
+        "title": "Хладагент TR Gas R404A · 10 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R404A",
+        "specification": "10 кг · баллон",
+        "description": "Хладагент R404A из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 1980000
+      },
+      "image": {
+        "code": "R404A",
+        "brand": "TR-GAS",
+        "sourcePage": "https://www.212yedekparca.com/r404a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r404a-sogutucu-gaz",
+        "imageUrl": "https://www.212yedekparca.com/img/products/tr-gas-r404a-sogutucu-gaz-a29fe6e.jpeg",
+        "width": 542,
+        "height": 596,
+        "packSize": "10 kg",
+        "rightsInfo": "Original dealer photograph. No explicit reuse license found; preserve any watermark.",
+        "priceTry": 8198.55,
+        "priceSource": "https://www.212yedekparca.com/r404a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r404a-sogutucu-gaz",
+        "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": true,
+        "status": "verified_logo_and_code",
+        "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
+        "referencePriceUzs": 1984131,
+        "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
+        "conversionTryUzs": 242.01,
+        "recommended": true,
+        "slug": "trgas-r404a",
+        "caption": "Оригинальное фото TR Gas · R404A · 10 кг",
+        "label": "TR Gas R404A · 10 кг"
+      },
+      "source": "https://www.212yedekparca.com/r404a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r404a-sogutucu-gaz",
+      "priceReference": {
+        "url": "https://www.212yedekparca.com/r404a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r404a-sogutucu-gaz",
+        "label": "Цена турецкого продавца",
+        "note": "Ориентир: 8,198.55 TRY × 242,01 сум по курсу ЦБ от 22.09.2026, округлено. Доставка и импортные расходы не включены; цена магазина требует подтверждения."
+      }
+    },
+    "premium-r006": {
+      "fields": {
+        "title": "Хладагент TR Gas R407C · 10 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R407C",
+        "specification": "10 кг · баллон",
+        "description": "Хладагент R407C из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 2550000
+      },
+      "image": {
+        "code": "R407C",
+        "brand": "TR-GAS",
+        "sourcePage": "https://www.212yedekparca.com/r407c-sogutucu-gaz-10-kg-tr-gas-tr-gas-r407c-sogutucu-gaz",
+        "imageUrl": "https://www.212yedekparca.com/img/products/tr-gas-r407c-sogutucu-gaz-76a4e49.jpeg",
+        "width": 547,
+        "height": 597,
+        "packSize": "10 kg",
+        "rightsInfo": "Original dealer photograph. No explicit reuse license found; preserve any watermark.",
+        "priceTry": 10540.99,
+        "priceSource": "https://www.212yedekparca.com/r407c-sogutucu-gaz-10-kg-tr-gas-tr-gas-r407c-sogutucu-gaz",
+        "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": true,
+        "status": "verified_logo_and_code",
+        "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
+        "referencePriceUzs": 2551025,
+        "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
+        "conversionTryUzs": 242.01,
+        "recommended": true,
+        "slug": "trgas-r407c",
+        "caption": "Оригинальное фото TR Gas · R407C · 10 кг",
+        "label": "TR Gas R407C · 10 кг"
+      },
+      "source": "https://www.212yedekparca.com/r407c-sogutucu-gaz-10-kg-tr-gas-tr-gas-r407c-sogutucu-gaz",
+      "priceReference": {
+        "url": "https://www.212yedekparca.com/r407c-sogutucu-gaz-10-kg-tr-gas-tr-gas-r407c-sogutucu-gaz",
+        "label": "Цена турецкого продавца",
+        "note": "Ориентир: 10,540.99 TRY × 242,01 сум по курсу ЦБ от 22.09.2026, округлено. Доставка и импортные расходы не включены; цена магазина требует подтверждения."
+      }
+    },
+    "premium-r007": {
+      "fields": {
+        "active": 0,
+        "brand": "",
+        "title": "Архив: хладагент R507A",
+        "description": "Позиция скрыта: оригинальная продукция TR Gas и соответствующее изображение пока не подтверждены.",
+        "image": "/favicon.png"
+      },
+      "reason": "no_verified_exact_TR_Gas_product_or_photo"
+    },
+    "premium-r008": {
+      "fields": {
+        "title": "Хладагент TR Gas R290 · 5 кг",
+        "brand": "TR Gas",
+        "series": "TR Gas",
+        "model": "R290",
+        "specification": "5 кг · баллон",
+        "description": "Хладагент R290 из каталога TR Gas / Tura. Фасовка 5 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
+        "price": 0
+      },
+      "image": {
+        "code": "R290",
+        "sourcePage": "https://www.turaiklimlendirme.com/en/r290-gas/",
+        "imageUrl": "https://www.turaiklimlendirme.com/wp-content/uploads/2024/05/r290-2.png",
+        "brand": "Tura catalog / TR Gas supplier",
+        "width": 1080,
+        "height": 1080,
+        "packSize": "5 kg",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": false,
+        "status": "official_catalog_original_not_logo_visible",
+        "verification": "Original orange disposable cylinder image in Tura R290 gallery. Visually reads REFRIGERANT 290 and NET WEIGHT 5.0KGS; no TR-GAS wordmark visible.",
+        "rightsInfo": "Original manufacturer website image; no explicit reuse license located.",
+        "recommended": true,
+        "slug": "trgas-r290",
+        "caption": "Фото из каталога Tura · R290 · 5 кг",
+        "label": "TR Gas R290 · 5 кг"
+      },
+      "source": "https://www.turaiklimlendirme.com/en/r290-gas/"
+    },
+    "premium-r009": {
+      "fields": {
+        "active": 0,
+        "brand": "",
+        "title": "Архив: хладагент R22",
+        "description": "Позиция скрыта: оригинальная продукция TR Gas и соответствующее изображение пока не подтверждены.",
+        "image": "/favicon.png"
+      },
+      "reason": "no_verified_exact_TR_Gas_product_or_photo"
+    },
+    "premium-r010": {
+      "fields": {
+        "active": 0,
+        "brand": "",
+        "title": "Архив: хладагент R1234yf",
+        "description": "Позиция скрыта: оригинальная продукция TR Gas и соответствующее изображение пока не подтверждены.",
+        "image": "/favicon.png"
+      },
+      "reason": "no_verified_exact_TR_Gas_product_or_photo"
+    },
+    "premium-r011": {
+      "fields": {
+        "active": 0,
+        "brand": "",
+        "title": "Архив: хладагент R448A",
+        "description": "Позиция скрыта: оригинальная продукция TR Gas и соответствующее изображение пока не подтверждены.",
+        "image": "/favicon.png"
+      },
+      "reason": "no_verified_exact_TR_Gas_product_or_photo"
+    },
+    "premium-r012": {
+      "fields": {
+        "active": 0,
+        "brand": "",
+        "title": "Архив: хладагент R449A",
+        "description": "Позиция скрыта: оригинальная продукция TR Gas и соответствующее изображение пока не подтверждены.",
+        "image": "/favicon.png"
+      },
+      "reason": "no_verified_exact_TR_Gas_product_or_photo"
+    },
+    "premium-t001": {
+      "fields": {
+        "title": "Манометрический коллектор VALUE VMG-2-R410A-B",
+        "description": "Двухвентильный аналоговый коллектор для контроля давления и заправки систем с R22, R134a, R410A и R407C.",
+        "specification": "2 вентиля · манометры 68 мм · 3 шланга 120 см · кейс",
+        "brand": "VALUE",
+        "model": "VMG-2-R410A-B",
+        "series": "VMG",
+        "price": 1550000,
+        "refrigerant": "R22 / R134a / R410A / R407C"
+      },
+      "image": {
+        "imageUrl": "https://static.refo24.ru/products/40/39243/6fd929f9b019d0446ee8900f6906c707.jpg",
+        "sourcePage": "https://refo24.ru/catalog/products/manifold-vmg-2-r410a-b",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "385de5ae12f73a3b48f4aaefe8add237eb6f234ca9074a4ff8d22bb22c05959b",
+        "slug": "value-vmg-2-r410a-b",
+        "caption": "Фото VALUE VMG-2-R410A-B",
+        "label": "VALUE VMG-2-R410A-B"
+      },
+      "source": "https://worldvalue.cn/news_info/id-14.html",
+      "priceReference": {
+        "url": "https://market.yandex.uz/card/manometricheskiy-kollektor-value-vmg-2-r410a-b-pod-r410a-r22-r134a-r407c/102200625965",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://market.yandex.uz/card/manometricheskiy-kollektor-value-vmg-2-r410a-b-pod-r410a-r22-r134a-r407c/102200625965",
+        "amount": 1548786,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t003": {
+      "fields": {
+        "title": "Цифровой коллектор VALUE VDG-S1",
+        "description": "Одновентильный цифровой коллектор низкого давления. ЖК-дисплей с подсветкой, смотровое стекло и поддержка 9 хладагентов.",
+        "specification": "1 вентиль · 2 × 1/4″ SAE · питание 9 В · шланги и кейс",
+        "brand": "VALUE",
+        "model": "VDG-S1",
+        "series": "VDG",
+        "price": 2460000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://worldvalue.cn/uploadfile/yushangweb_file/22/20240726163755519649.png",
+        "sourcePage": "https://worldvalue.cn/product/page_4.html",
+        "width": 631,
+        "height": 1591,
+        "sha256": "c967d20727d43de583453dc7cc325f32ba294fb8b00fbee078d2d7fc4d8ae4de",
+        "slug": "value-vdg-s1",
+        "caption": "Фото VALUE VDG-S1",
+        "label": "VALUE VDG-S1"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VDG-S1",
+      "priceReference": {
+        "url": "https://market.yandex.uz/ru/card/elektronnyy-odnoventilnyy-kollektor-value-vdg-s1--shlangi-adapter-v-keyse-universalnyy/101827192248",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://market.yandex.uz/ru/card/elektronnyy-odnoventilnyy-kollektor-value-vdg-s1--shlangi-adapter-v-keyse-universalnyy/101827192248",
+        "amount": 2455972,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t002": {
+      "fields": {
+        "title": "Мини-труборез VALUE VTC-28",
+        "description": "Компактный роликовый труборез для медных и алюминиевых труб диаметром 4–28 мм. Удобен при работе в ограниченном пространстве.",
+        "specification": "4–28 мм · 1/8″–1 1/8″ · ручной",
+        "brand": "VALUE",
+        "model": "VTC-28",
+        "series": "VTC",
+        "price": 85000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://techholod.com/upload/iblock/796/s0rit5bxnl9jrze6k7lrlma8vzavyuob/2c134555-3b51-11e9-bd22-902b34105cce_4ba13a89-8363-11e9-aecc-5404a6c511cc.jpg",
+        "sourcePage": "https://techholod.com/catalog/zapchasti_raskhodnye_materialy_1/instrumenty/instrument_value/",
+        "width": 500,
+        "height": 500,
+        "sha256": "e06f701c3d33eb48c5170b54a1ff4db7ad60fe794ac3237fbcc256e301552bf0",
+        "slug": "value-vtc-28",
+        "caption": "Фото VALUE VTC-28",
+        "label": "VALUE VTC-28"
+      },
+      "source": "https://value-instrument.ru/catalog/%D1%81utters/vtc-28.html",
+      "priceReference": {
+        "url": "https://techholod.com/catalog/zapchasti_raskhodnye_materialy_1/instrumenty/instrument_value/",
+        "label": "Ориентир открытого рынка",
+        "note": "Ориентир 579 RUB, пересчитан по курсу ЦБ 140,68 сум/RUB от 22.09.2026 и округлён. Это не подтверждённая цена в Узбекистане; доставка не включена."
+      },
+      "priceEvidence": {
+        "url": "https://techholod.com/catalog/zapchasti_raskhodnye_materialy_1/instrumenty/instrument_value/",
+        "amount": 579,
+        "currency": "RUB",
+        "conversion": {
+          "rateUzsPerUnit": 140.68,
+          "date": "2026-09-22",
+          "rateSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/print/",
+          "exactUzs": 81453.72,
+          "noteRu": "Рублёвая розничная цена пересчитана по курсу ЦБ; округлено до 85 000 сум. Это ориентир без доставки, а не подтверждённая цена в Узбекистане."
+        },
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t007": {
+      "fields": {
+        "title": "Труборез VALUE VTC-32",
+        "description": "Роликовый труборез для медных и алюминиевых труб. Модель с регулировочной рукояткой для диаметров 4–32 мм.",
+        "specification": "4–32 мм · 1/8″–1 1/4″ · ручной",
+        "brand": "VALUE",
+        "model": "VTC-32",
+        "series": "VTC",
+        "price": 190000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://img01.flagma.uz/photo/truborez-dlya-mednoy-truby-value-vtc-32-2004182_big.jpg",
+        "sourcePage": "https://flagma.uz/ru/truborez-dlya-mednoy-truby-value-vtc-32-o1952658.html",
+        "width": 424,
+        "height": 424,
+        "sha256": "a364ac1c09c59c033edf0e138baf451be5b5b3ab0ba4576189a3ccb86ab3040e",
+        "slug": "value-vtc-32",
+        "caption": "Фото VALUE VTC-32",
+        "label": "VALUE VTC-32"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VTC-32",
+      "priceReference": {
+        "url": "https://flagma.uz/ru/truborez-dlya-mednoy-truby-value-vtc-32-o1952658.html",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://flagma.uz/ru/truborez-dlya-mednoy-truby-value-vtc-32-o1952658.html",
+        "amount": 190320,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t004": {
+      "fields": {
+        "title": "Вакуумный насос VALUE VE115N",
+        "description": "Одноступенчатый масляный вакуумный насос для вакуумирования холодильных контуров перед заправкой хладагентом.",
+        "specification": "51 л/мин при 50 Гц · 1 ступень · 150 микрон · 220 В",
+        "brand": "VALUE",
+        "model": "VE115N",
+        "series": "VE N",
+        "price": 990000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://static.refo24.ru/products/41/40714/cceba31a188f1f3709abb8db2cee066b.jpg",
+        "sourcePage": "https://refo24.ru/catalog/products/vakuumnyj-nasos-ve115n",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "ecbaa08e7c5b8ea00c83a3783cf928d739b8a313ceb2cf9e0f1a511a8c96cf57",
+        "slug": "value-ve115n",
+        "caption": "Фото VALUE VE115N",
+        "label": "VALUE VE115N"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VE115N",
+      "priceReference": {
+        "url": "https://flagma.uz/ru/vakuumny-nasos-ve115n-1-5-o1853191.html",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://flagma.uz/ru/vakuumny-nasos-ve115n-1-5-o1853191.html",
+        "amount": 990000,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t005": {
+      "fields": {
+        "title": "Вакуумный насос VALUE VE125N",
+        "description": "Одноступенчатый масляный насос с производительностью 70 л/мин для монтажа и обслуживания холодильных систем.",
+        "specification": "70 л/мин при 50 Гц · 1 ступень · 150 микрон · 220 В",
+        "brand": "VALUE",
+        "model": "VE125N",
+        "series": "VE N",
+        "price": 2290000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://static.refo24.ru/products/33/32251/ve125n.jpg",
+        "sourcePage": "https://refo24.ru/catalog/products/vakuumnyj-nasos-ve125n",
+        "width": 800,
+        "height": 800,
+        "sha256": "66eb721eae4d3b512541fc0455559c1753b4e4aecec8ac86973b41b1bda3e4d3",
+        "slug": "value-ve125n",
+        "caption": "Фото VALUE VE125N",
+        "label": "VALUE VE125N"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VE125N",
+      "priceReference": {
+        "url": "https://market.yandex.uz/card/vakuumnyy-nasos-value-ve125n-1st-70-lmin-20-pa-71-kg/101827196393",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://market.yandex.uz/card/vakuumnyy-nasos-value-ve125n-1st-70-lmin-20-pa-71-kg/101827196393",
+        "amount": 2289366,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t006": {
+      "fields": {
+        "title": "Вакуумный насос VALUE VE215N",
+        "description": "Двухступенчатый масляный насос для глубокого вакуумирования холодильных контуров. Компактная модель серии VE N.",
+        "specification": "42 л/мин при 50 Гц · 2 ступени · 15 микрон · 220 В",
+        "brand": "VALUE",
+        "model": "VE215N",
+        "series": "VE N",
+        "price": 3450000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://static.refo24.ru/products/33/32257/ve215n.jpg",
+        "sourcePage": "https://refo24.ru/catalog/products/vakuumnyj-nasos-ve215n",
+        "width": 800,
+        "height": 800,
+        "sha256": "b722f2d9747175d0568c001800e72df6f5c7f05f003a74142cea0386390a39e5",
+        "slug": "value-ve215n",
+        "caption": "Фото VALUE VE215N",
+        "label": "VALUE VE215N"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VE215N",
+      "priceReference": {
+        "url": "https://market.yandex.uz/card/vakuumnyy-nasos-value-ve215n-2st-42-lmin-2-pa-75-kg/103017406165",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://market.yandex.uz/card/vakuumnyy-nasos-value-ve215n-2st-42-lmin-2-pa-75-kg/103017406165",
+        "amount": 3452695,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "premium-t008": {
+      "fields": {
+        "title": "Вакуумный насос VALUE VE245N",
+        "description": "Двухступенчатый масляный насос повышенной производительности для вакуумирования систем кондиционирования и холодильного оборудования.",
+        "specification": "128 л/мин при 50 Гц · 2 ступени · 15 микрон · 220 В",
+        "brand": "VALUE",
+        "model": "VE245N",
+        "series": "VE N",
+        "price": 2500000,
+        "refrigerant": "По паспорту оборудования"
+      },
+      "image": {
+        "imageUrl": "https://static.refo24.ru/products/41/40733/a3c736ef59fb83acd281145fb7dfa3a6.jpg",
+        "sourcePage": "https://refo24.ru/catalog/products/vakuumnyj-nasos-ve245n",
+        "width": 1200,
+        "height": 1200,
+        "sha256": "847625137f5db2fccb9214d316163f6e25d75cc01f2160c482416c78ef7af24c",
+        "slug": "value-ve245n",
+        "caption": "Фото VALUE VE245N",
+        "label": "VALUE VE245N"
+      },
+      "source": "https://www.worldvalue.cn/pro_info/VE245N",
+      "priceReference": {
+        "url": "https://www.olx.uz/d/obyavlenie/vakuumnyy-nasos-value-ve245n-128-l-min-dvuhstupenchatyy-ID42v7e.html",
+        "label": "Ориентир открытого рынка",
+        "note": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД. Проверено 22.09.2026; отображаемая сумма округлена."
+      },
+      "priceEvidence": {
+        "url": "https://www.olx.uz/d/obyavlenie/vakuumnyy-nasos-value-ve245n-128-l-min-dvuhstupenchatyy-ID42v7e.html",
+        "amount": 2500000,
+        "currency": "UZS",
+        "conversion": null,
+        "observedDate": "2026-09-22",
+        "noteRu": "Цена из открытого объявления/каталога, не подтверждённая цена или остаток ТР ХОЛОД."
+      }
+    },
+    "model-secop-tles4-8kk-3": {
+      "fields": {
+        "description": "Низкотемпературный герметичный компрессор серии TLES для холодильной техники. Архивная модель. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. TLES4.8KK.3: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "TLES4.8KK.3",
+        "sourcePage": "https://www.skh-kaeltetechnik.de/Compressor-Danfoss-Secop-TLES48KK3",
+        "imageUrl": "https://www.skh-kaeltetechnik.de/media/image/product/1596/lg/verdichter-kompressor-danfoss-secop-tles48kk3.jpg",
+        "width": 1120,
+        "height": 1120,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "TLES4.8KK.3",
+        "captionRu": "TLES4.8KK.3: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Exact model text legible but native source itself is soft; not upscaled by us.",
+        "brand": "Secop",
+        "sha256": "2a5545fd12c12dd8b62f5f1a969728c5dd4f42af50e5dfa251263126e09ed50a",
+        "slug": "compressor-tles4-8kk-3",
+        "caption": "Фото Danfoss / Secop TLES4.8KK.3",
+        "label": "Danfoss / Secop TLES4.8KK.3"
+      }
+    },
+    "model-secop-tl5g": {
+      "fields": {
+        "description": "Универсальная модель серии TL для холодильной техники. Архивная серия. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. TL5G: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "TL5G",
+        "sourcePage": "https://essebitecnologie.com/products/compressore-secop-danfoss-tl5g-csir",
+        "imageUrl": "https://essebitecnologie.com/cdn/shop/files/tl5g-csir.png?v=1766514590",
+        "width": 1100,
+        "height": 1422,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "TL5G",
+        "captionRu": "TL5G: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "brand": "Secop",
+        "sha256": "1508a3ab0c23cac9d20e63411893123b86b5f704452ecdf5035f75140a1a18ab",
+        "slug": "compressor-tl5g",
+        "caption": "Фото Danfoss / Secop TL5G",
+        "label": "Danfoss / Secop TL5G"
+      }
+    },
+    "model-secop-nl6-1mf": {
+      "fields": {
+        "description": "Герметичный компрессор серии NL для холодильных применений LBP и MBP. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. NL6.1MF: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "NL6.1MF",
+        "sourcePage": "https://polargross.com/en/compressors-fridges/412-secop-nl61mf-csir-compressor.html",
+        "imageUrl": "https://polargross.com/768-thickbox_default/secop-nl61mf-csir-compressor.jpg",
+        "width": 1100,
+        "height": 1422,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "NL6.1MF",
+        "captionRu": "NL6.1MF: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "brand": "Secop",
+        "sha256": "d9b92b76af71f9a431fc471b7002a02273f36c25b6f0b6a88516f6e2fb9be3af",
+        "slug": "compressor-nl6-1mf",
+        "caption": "Фото Danfoss / Secop NL6.1MF",
+        "label": "Danfoss / Secop NL6.1MF"
+      }
+    },
+    "model-secop-nl11f": {
+      "fields": {
+        "description": "Низкотемпературная модель серии NL для холодильной техники. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. NL11F: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "NL11F",
+        "sourcePage": "https://www.frigocentar.com/proizvodi/kompresor-secop-danfoss-nl11f/",
+        "imageUrl": "https://frigocentar.com/wp-content/uploads/2023/05/NL11f.jpg",
+        "width": 800,
+        "height": 930,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "NL11F",
+        "captionRu": "NL11F: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Danfoss label NL11F 105G6900, Made by Nidec; exact model and code, historical branding.",
+        "brand": "Secop",
+        "sha256": "d1305052b32eb8bc1bac719383a608acb6ebb28ae9ad3b119277fa9050b19da1",
+        "slug": "compressor-nl11f",
+        "caption": "Фото Danfoss / Secop NL11F",
+        "label": "Danfoss / Secop NL11F"
+      }
+    },
+    "model-secop-fr8-5g": {
+      "fields": {
+        "description": "Универсальный холодильный компрессор серии FR. Архивная модель. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. FR8.5G: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "FR8.5G",
+        "sourcePage": "https://polargross.com/es/compresores-frigorificos-hermeticos/427-compresor-secop-fr85g-csir.html",
+        "imageUrl": "https://polargross.com/799-thickbox_default/compresor-secop-fr85g-csir.jpg",
+        "width": 1100,
+        "height": 1422,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "FR8.5G",
+        "captionRu": "FR8.5G: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "brand": "Secop",
+        "sha256": "856ab2a1b90705ba656d40273f63d2543d894e4b28244e3043199fed6bd9b989",
+        "slug": "compressor-fr8-5g",
+        "caption": "Фото Danfoss / Secop FR8.5G",
+        "label": "Danfoss / Secop FR8.5G"
+      }
+    },
+    "model-secop-fr10g": {
+      "fields": {
+        "description": "Герметичный холодильный компрессор серии FR. Архивная модель. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. Secop FR10G. На фото исполнение 103G6880; код в паспорте карточки — 103G6890."
+      },
+      "image": {
+        "model": "FR10G",
+        "sourcePage": "https://piecesdetacheesfrigo.fr/en/products/compresseur-secop-fr10g-csir",
+        "imageUrl": "https://piecesdetacheesfrigo.fr/cdn/shop/products/Compresseur_SECOP_FR10G.jpg?v=1615542081",
+        "width": 1162,
+        "height": 893,
+        "matchLevel": "exact-model-different-product-code",
+        "imageModel": "FR10G",
+        "captionRu": "Secop FR10G. На фото исполнение 103G6880; код в паспорте карточки — 103G6890.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Visible label 103G6880; target provenance uses 103G6890. Same model, different starter/configuration code.",
+        "brand": "Secop",
+        "sha256": "287ee9a92946ec013366e49f29766a26478b668a70ff848987d32709df473576",
+        "slug": "compressor-fr10g",
+        "caption": "Secop FR10G. На фото исполнение 103G6880; код в паспорте карточки — 103G6890.",
+        "label": "Danfoss / Secop FR10G"
+      }
+    },
+    "premium-c007": {
+      "fields": {
+        "description": "Низкотемпературный компрессор серии SC для холодильного оборудования. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Secop — бывшее подразделение Danfoss Household Compressors. SC12CL: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "SC12CL",
+        "sourcePage": "https://polargross.com/es/compresores-frigorificos-hermeticos/492-compresor-secop-sc12cl-csir.html",
+        "imageUrl": "https://polargross.com/933-thickbox_default/compresor-secop-sc12cl-csir.jpg",
+        "width": 1100,
+        "height": 1422,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "SC12CL",
+        "captionRu": "SC12CL: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "brand": "Secop",
+        "sha256": "79f5c568095921292d4de37e0c47d9edd180aab6e7018fa68c288cac228566ba",
+        "slug": "compressor-sc12cl",
+        "caption": "Фото Danfoss / Secop SC12CL",
+        "label": "Danfoss / Secop SC12CL"
+      }
+    },
+    "demo-c2": {
+      "fields": {
+        "description": "Двухроторный компрессор с инверторным управлением для кондиционеров Toshiba на R410A. Указан в документации RAS-M18UAV-E. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. DA130A1F-25F: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "DA130A1F-25F",
+        "sourcePage": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-25f",
+        "imageUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_25f_15075_1_a5274a2ed1760f9a58dd90c3a7367d42.jpg",
+        "width": 1600,
+        "height": 1200,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "DA130A1F-25F",
+        "captionRu": "DA130A1F-25F: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "watermark": "Refriparts bottom-right: preserve",
+        "brand": "Toshiba",
+        "sha256": "9cbe44c1c998c5bfeeda7bb096be5151e3d99d3ddaf2a3dec9c087aa944c2772",
+        "slug": "compressor-da130a1f-25f",
+        "caption": "Фото Toshiba DA130A1F-25F",
+        "label": "Toshiba DA130A1F-25F"
+      }
+    },
+    "model-toshiba-da111a1f-20f1": {
+      "fields": {
+        "description": "Компрессор для инверторных кондиционеров Toshiba на R410A. Указан в документации наружного блока RAS-M14GAV-E. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. DA111A1F-20F1: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "DA111A1F-20F1",
+        "sourcePage": "https://unoaire.com/product/compr-da111a1f-20f1-lra-2hp-155v-inv-toshiba-38cvsr016/",
+        "imageUrl": "https://unoaire.com/wp-content/uploads/2023/11/765.webp",
+        "width": 600,
+        "height": 800,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "DA111A1F-20F1",
+        "captionRu": "DA111A1F-20F1: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "watermark": "Uno Aire / UMG: preserve all overlays",
+        "brand": "Toshiba",
+        "sha256": "329aee274d180ac84a943e86037bd0fd1bd041497b37f4963271f4dbc495fe24",
+        "slug": "compressor-da111a1f-20f1",
+        "caption": "Фото Toshiba DA111A1F-20F1",
+        "label": "Toshiba DA111A1F-20F1"
+      }
+    },
+    "model-toshiba-da89x1c-23fz2": {
+      "fields": {
+        "description": "Компрессор инверторных кондиционеров Toshiba RAS-10SAV2-E и RAS-13SAV2-E на R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. DA89X1C-23FZ2: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "DA89X1C-23FZ2",
+        "sourcePage": "https://totaline.com.ph/products/compr-da89x1c-23fz2-43t41420-4000008898",
+        "imageUrl": "https://totaline.com.ph/cdn/shop/files/4000008898_01_Compr_DA89X1C-23FZ2_43T41420.jpg?v=1730724330",
+        "width": 1100,
+        "height": 1100,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "DA89X1C-23FZ2",
+        "captionRu": "DA89X1C-23FZ2: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "brand": "Toshiba",
+        "sha256": "46a2f52a418801991f931a2ccbdbc73d2ef21e1b4418b1d399b9efcc1647fa59",
+        "slug": "compressor-da89x1c-23fz2",
+        "caption": "Фото Toshiba DA89X1C-23FZ2",
+        "label": "Toshiba DA89X1C-23FZ2"
+      }
+    },
+    "model-toshiba-da130a1f-27f": {
+      "fields": {
+        "description": "Компрессор для кондиционера Toshiba RAS-18SAV2-E на R410A; точный код подтверждён сервисным каталогом. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Toshiba серии DA130. На фото DA130A1F-21F; модификация DA130A1F-27F может отличаться."
+      },
+      "image": {
+        "model": "DA130A1F-27F",
+        "sourcePage": "https://www.refriparts.com.br/compressor/inverter/compressor-rotativo-18-000-btus-r-410a-220v-toshiba-inverter-da130a1f-21f",
+        "imageUrl": "https://images.tcdn.com.br/img/img_prod/1036166/compressor_rotativo_18_000_btus_r_410a_220v_toshiba_inverter_da130a1f_21f_15065_1_ba380b0c7d09353ab7835b699e40733e.jpg",
+        "width": 1600,
+        "height": 1200,
+        "matchLevel": "same-DA130-family-different-suffix",
+        "imageModel": "DA130A1F-21F",
+        "captionRu": "Toshiba серии DA130. На фото DA130A1F-21F; модификация DA130A1F-27F может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "watermark": "Refriparts bottom-right: preserve",
+        "brand": "Toshiba",
+        "sha256": "a6310194a24f458cf52eddce6cdaa867ed7a150549e32b9fdf8dc5a07ff8140c",
+        "slug": "compressor-da130a1f-27f",
+        "caption": "Toshiba серии DA130. На фото DA130A1F-21F; модификация DA130A1F-27F может отличаться.",
+        "label": "Toshiba DA130A1F-27F"
+      }
+    },
+    "model-gmcc-ksk53d15uez3": {
+      "fields": {
+        "description": "Однороторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC серии SK. На фото KSK103D33UEZ3; исполнение KSK53D15UEZ3 может отличаться."
+      },
+      "image": {
+        "model": "KSK53D15UEZ3",
+        "sourcePage": "https://www.zee-cool.com/products/Rotary-Compressor/GMCC-Toshiba-Compressor/Hot-Selling-KSK103D33UEZ3-GMCC-1-5HP-R32-R410A-Refrigeration-Compressor-for-Commercial-Display-Freezer.html",
+        "imageUrl": "https://usimg.bjyyb.net/sites/92000/92086/1755570622816256111493750784.png",
+        "width": 800,
+        "height": 800,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "KSK103D33UEZ3",
+        "series": "SK",
+        "brand": "GMCC",
+        "captionRu": "GMCC серии SK. На фото KSK103D33UEZ3; исполнение KSK53D15UEZ3 может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "sha256": "65eff5d7a413bdb73b4c1144f0b8dda7e3356e9178c4ffce830a01465d0f3e9a",
+        "slug": "compressor-ksk53d15uez3",
+        "caption": "GMCC серии SK. На фото KSK103D33UEZ3; исполнение KSK53D15UEZ3 может отличаться.",
+        "label": "GMCC KSK53D15UEZ3"
+      }
+    },
+    "model-gmcc-ksn98d27uer31": {
+      "fields": {
+        "description": "Однороторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC серии SN. На фото KSN140D21UFZ; исполнение KSN98D27UER31 может отличаться."
+      },
+      "image": {
+        "model": "KSN98D27UER31",
+        "sourcePage": "https://www.rfjcompressor.com/rotary-compressor/rotary-compressor-for-gmcc/dc-inverter-compressor.html",
+        "imageUrl": "https://www.rfjcompressor.com/Content/uploads/2023565044/20230814151540f1948780ddf74ca5b2298166e2515b47.jpg?size=800x0",
+        "width": 800,
+        "height": 1066,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "KSN140D21UFZ",
+        "series": "SN",
+        "brand": "GMCC",
+        "captionRu": "GMCC серии SN. На фото KSN140D21UFZ; исполнение KSN98D27UER31 может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "watermark": "RFJ top-left: preserve",
+        "sha256": "dbbc1bddbcaf9dcdbdf5f530284645c49b94ad30fe2d5f20be9021d8fd0ffd8b",
+        "slug": "compressor-ksn98d27uer31",
+        "caption": "GMCC серии SN. На фото KSN140D21UFZ; исполнение KSN98D27UER31 может отличаться.",
+        "label": "GMCC KSN98D27UER31"
+      }
+    },
+    "model-gmcc-ktk115d33ufz3": {
+      "fields": {
+        "description": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC серии TK. На фото KTK130D43UFE3; исполнение KTK115D33UFZ3 может отличаться."
+      },
+      "image": {
+        "model": "KTK115D33UFZ3",
+        "sourcePage": "https://brandparts.in/products/marq-by-flipkart-air-conditioner-fkac155siap-compressor",
+        "imageUrl": "https://brandparts.in/cdn/shop/files/image-1745986665031_ac323337-77a2-459e-a9e3-bb01330c219e.jpg?v=1756203937",
+        "width": 1000,
+        "height": 1000,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "KTK130D43UFE3",
+        "series": "TK",
+        "brand": "GMCC",
+        "captionRu": "GMCC серии TK. На фото KTK130D43UFE3; исполнение KTK115D33UFZ3 может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Clear readable label; source photo slightly crops upper pipe tips and bottom mounting foot.",
+        "sha256": "f64cb8988dbdc2f2e60522f94d9d468c638dc7869ae355bf97df0b7625e3f58f",
+        "slug": "compressor-ktk115d33ufz3",
+        "caption": "GMCC серии TK. На фото KTK130D43UFE3; исполнение KTK115D33UFZ3 может отличаться.",
+        "label": "GMCC KTK115D33UFZ3"
+      }
+    },
+    "model-gmcc-ktn150d53ufz3": {
+      "fields": {
+        "description": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC серии TN. На фото KTN150D30UFZA; исполнение KTN150D53UFZ3 может отличаться."
+      },
+      "image": {
+        "model": "KTN150D53UFZ3",
+        "sourcePage": "https://shop.zanussi.co.uk/c/compressor-inverter-dc-rotary/p/4055997250",
+        "imageUrl": "https://api.electrolux-medialibrary.com/asset/cc755e41-4388-45e9-bafa-9c5171252632/E4RM3Q/4055997250_01_Photobox_2D/PN/4055997250_01_Photobox_2D.jpg",
+        "width": 700,
+        "height": 700,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "KTN150D30UFZA",
+        "series": "TN",
+        "brand": "GMCC",
+        "captionRu": "GMCC серии TN. На фото KTN150D30UFZA; исполнение KTN150D53UFZ3 может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "sha256": "afe62a8dbb4209c21ea4d76004cacb001adbfa4c0de0670c2128e0bbaa3c66a7",
+        "slug": "compressor-ktn150d53ufz3",
+        "caption": "GMCC серии TN. На фото KTN150D30UFZA; исполнение KTN150D53UFZ3 может отличаться.",
+        "label": "GMCC KTN150D53UFZ3"
+      }
+    },
+    "model-gmcc-ktm180d43umt": {
+      "fields": {
+        "description": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC серии TM. На фото KTM240D43UKT; исполнение KTM180D43UMT может отличаться."
+      },
+      "image": {
+        "model": "KTM180D43UMT",
+        "sourcePage": "https://voomisupply.com/products/carrier-11103020a00736-gmcc-ktm240d43ukt-compressor-r410a",
+        "imageUrl": "https://voomisupply.com/cdn/shop/files/225199965_e85ddce9-13e0-4c82-b280-d5f9dfd95372.webp?v=1764970994",
+        "width": 1200,
+        "height": 1600,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "KTM240D43UKT",
+        "series": "TM",
+        "brand": "GMCC",
+        "captionRu": "GMCC серии TM. На фото KTM240D43UKT; исполнение KTM180D43UMT может отличаться.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Clear readable label, photograph crops bottom of compressor; optional full-body alternative may be available.",
+        "sha256": "9f8c01e286ddf83ecbcaec9267e9f276786ad83f2ada34fefba392bf335d0788",
+        "slug": "compressor-ktm180d43umt",
+        "caption": "GMCC серии TM. На фото KTM240D43UKT; исполнение KTM180D43UMT может отличаться.",
+        "label": "GMCC KTM180D43UMT"
+      }
+    },
+    "model-gmcc-ktf310d43umt": {
+      "fields": {
+        "description": "Двухроторный инверторный компрессор для систем кондиционирования. Модель из каталога GMCC 2024, раздел R32/R410A. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. GMCC KTF310D43UMT: фотография модели, заводской шильдик сохранён."
+      },
+      "image": {
+        "model": "KTF310D43UMT",
+        "sourcePage": "https://www.sudesteclimatizacao.com.br/compressor-elgin-inverter-cassete-e-piso-teto-48-a-60000-btus-ktf310d43umt",
+        "imageUrl": "https://cdn.awsli.com.br/2500x2500/338/338110/produto/399123026/88a7b11f06c8f51b1c0fbc35240e7025-mwswz2v63t.jpg",
+        "width": 1100,
+        "height": 1100,
+        "matchLevel": "exact-model-exterior-photo",
+        "imageModel": "KTF310D43UMT",
+        "series": "TF",
+        "brand": "GMCC",
+        "captionRu": "GMCC KTF310D43UMT: фотография модели, заводской шильдик сохранён.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "sha256": "92b629b9e21398a9eaba619338c1c59f22bcee7a0e319269499672ee45d7cdeb",
+        "slug": "compressor-ktf310d43umt",
+        "caption": "Фото GMCC KTF310D43UMT",
+        "label": "GMCC KTF310D43UMT"
+      }
+    },
+    "model-panasonic-9rs058hb": {
+      "fields": {
+        "description": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS058HB — другое исполнение на R32."
+      },
+      "image": {
+        "model": "9RS058HB",
+        "sourcePage": "https://gdtili.en.made-in-china.com/product/XZdAvyaULJhe/China-R410A-60Hz-208-230V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.html",
+        "imageUrl": "https://image.made-in-china.com/2f0j00UWHgsflcHwkr/R410A-60Hz-208-230V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.webp",
+        "width": 1500,
+        "height": 1500,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "5RS058FAA21",
+        "series": "R",
+        "brand": "Panasonic",
+        "captionRu": "Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS058HB — другое исполнение на R32.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Photographed model uses R410A, catalog target uses R32. Same letter series only, not an exact model or refrigerant match.",
+        "sha256": "88c82843948fa4209144d66b08ed7d9f1f3fb12e2f8f1443c31d267891a0090c",
+        "slug": "compressor-9rs058hb",
+        "caption": "Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS058HB — другое исполнение на R32.",
+        "label": "Panasonic 9RS058HB"
+      }
+    },
+    "premium-c005": {
+      "fields": {
+        "description": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS096HA — другое исполнение на R32."
+      },
+      "image": {
+        "model": "9RS096HA",
+        "sourcePage": "https://gdtili.en.made-in-china.com/product/XZdAvyaULJhe/China-R410A-60Hz-208-230V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.html",
+        "imageUrl": "https://image.made-in-china.com/2f0j00UWHgsflcHwkr/R410A-60Hz-208-230V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.webp",
+        "width": 1500,
+        "height": 1500,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "5RS058FAA21",
+        "series": "R",
+        "brand": "Panasonic",
+        "captionRu": "Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS096HA — другое исполнение на R32.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Photographed model uses R410A, catalog target uses R32. Same letter series only, not an exact model or refrigerant match.",
+        "sha256": "88c82843948fa4209144d66b08ed7d9f1f3fb12e2f8f1443c31d267891a0090c",
+        "slug": "compressor-9rs096ha",
+        "caption": "Panasonic серии R. На фото 5RS058FAA21 (R410A); модель 9RS096HA — другое исполнение на R32.",
+        "label": "Panasonic 9RS096HA"
+      }
+    },
+    "model-panasonic-9ps108ha": {
+      "fields": {
+        "description": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Panasonic серии P. На фото 5PS108EAA22 (R410A); модель 9PS108HA — другое исполнение на R32."
+      },
+      "image": {
+        "model": "9PS108HA",
+        "sourcePage": "https://taihecompressor.en.made-in-china.com/product/zFiGLCuVJPTE/China-Panasonic-Rotary-Compressor-5PS108eaa22-for-Refrigerator-Use.html",
+        "imageUrl": "https://image.made-in-china.com/2f0j00PBWigpsMgQGj/Panasonic-Rotary-Compressor-5PS108eaa22-for-Refrigerator-Use.webp",
+        "width": 800,
+        "height": 800,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "5PS108EAA22",
+        "series": "P",
+        "brand": "Panasonic",
+        "captionRu": "Panasonic серии P. На фото 5PS108EAA22 (R410A); модель 9PS108HA — другое исполнение на R32.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Photographed model uses R410A, catalog target uses R32. Same letter series only, not an exact model or refrigerant match. Native original is relatively soft; clearer 550px alternate panasonic-p-tili.jpg and panasonic-p-tili.json available.",
+        "watermark": "PECOLD top-left: preserve",
+        "sha256": "3f567b51a8563ff714aca5d69e9c8be0f537bc864b3e09d8b1e069a8b6631dfa",
+        "slug": "compressor-9ps108ha",
+        "caption": "Panasonic серии P. На фото 5PS108EAA22 (R410A); модель 9PS108HA — другое исполнение на R32.",
+        "label": "Panasonic 9PS108HA"
+      }
+    },
+    "model-panasonic-9ks170ha": {
+      "fields": {
+        "description": "Роторный компрессор постоянной скорости для кондиционеров и климатических установок. Модель из официальной серии Panasonic R32. Изображение иллюстрирует указанную серию; исполнение и комплектация подбираются по полному коду модели и паспорту оборудования. Цена и остаток демонстрационные. Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32."
+      },
+      "image": {
+        "model": "9KS170HA",
+        "sourcePage": "https://gdtili.en.made-in-china.com/product/PFwTJyadCxku/China-R410A-50Hz-220-240V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.html",
+        "imageUrl": "https://image.made-in-china.com/2f0j00mWIubUlyfwof/R410A-50Hz-220-240V-1pH-Panasonic-Rotary-Air-Conditioner-Compressor.jpg",
+        "width": 1500,
+        "height": 1500,
+        "matchLevel": "same-letter-series-different-model",
+        "imageModel": "5KS170EAB21",
+        "series": "K",
+        "brand": "Panasonic",
+        "captionRu": "Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32.",
+        "rights": "Supplier product photograph; no open reuse license verified; original watermarks retained.",
+        "note": "Photographed model uses R410A, catalog target uses R32. Same letter series only, not an exact model or refrigerant match.",
+        "sha256": "a6ab374457aa1dcaf227c2785ba418b5621b778c6e90e9157dd3af8addb5b8ac",
+        "slug": "compressor-9ks170ha",
+        "caption": "Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32.",
+        "label": "Panasonic 9KS170HA"
+      }
+    }
+  },
+  "retiredIds": [
+    "premium-r007",
+    "premium-r009",
+    "premium-r010",
+    "premium-r011",
+    "premium-r012"
+  ],
+  "requestPriceIds": [
+    "premium-r003",
+    "premium-r008"
+  ],
+  "notes": [
+    "Оригинальные фотографии. Надписи и водяные знаки сохранены.",
+    "Цены — ориентиры внешних каталогов, не подтверждённый прайс магазина.",
+    "Остатки и история заказов сохраняются."
+  ]
+}

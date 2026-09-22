@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790068168377,
+      "tag": "0000_smart_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790072515887,
+      "tag": "0001_gray_nomad",
+      "breakpoints": true
+    }
+  ]
+}
