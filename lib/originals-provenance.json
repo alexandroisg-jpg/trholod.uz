@@ -1139,5 +1139,32 @@
     "Оригинальные фотографии. Надписи и водяные знаки сохранены.",
     "Цены — ориентиры внешних каталогов, не подтверждённый прайс магазина.",
     "Остатки и история заказов сохраняются."
-  ]
+  ],
+  "studioUpdate": {
+    "date": "2026-09-24",
+    "tool": "builtin imagegen",
+    "type": "AI-generated product illustration",
+    "requestedByOwner": true,
+    "originalManufacturerPhoto": false,
+    "weightLabelsRemoved": true,
+    "codes": [
+      "R134a",
+      "R410A",
+      "R32",
+      "R404A",
+      "R407C",
+      "R600a",
+      "R290"
+    ],
+    "images": {
+      "R134a": "/products/trgas-studio-r134a.webp",
+      "R410A": "/products/trgas-studio-r410a.webp",
+      "R32": "/products/trgas-studio-r32.webp",
+      "R404A": "/products/trgas-studio-r404a.webp",
+      "R407C": "/products/trgas-studio-r407c.webp",
+      "R600a": "/products/trgas-studio-r600a.webp",
+      "R290": "/products/trgas-studio-r290.webp"
+    },
+    "note": "Ранее записанные источники фото сохранены как история. На витрине для семи марок газа используются студийные иллюстрации; они не подтверждают внешний вид конкретной партии."
+  }
 }

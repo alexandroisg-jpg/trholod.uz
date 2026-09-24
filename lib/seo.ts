@@ -2,7 +2,7 @@ import type { Product } from './catalog';
 
 export const siteUrl = 'https://trholod.uz';
 export const catalogSections = [
-  {slug:'refrigerants', name:'Хладагенты', description:'Хладагенты TR Gas: R134a, R410A, R32, R404A, R407C, R600a и R290. Модели, фасовки и фотографии упаковки.'},
+  {slug:'refrigerants', name:'Хладагенты', description:'Хладагенты TR Gas: R134a, R410A, R32, R404A, R407C, R600a и R290. Выбор по марке хладагента и назначению.'},
   {slug:'refrigeration-compressors', name:'Холодильные компрессоры', description:'Холодильные компрессоры Danfoss / Secop и Embraco: серии, заводские модели, хладагенты и технические характеристики.'},
   {slug:'air-conditioning-compressors', name:'Кондиционерные компрессоры', description:'Компрессоры для кондиционеров Toshiba, GMCC, Highly и Panasonic. Подбор по точной модели и хладагенту.'},
   {slug:'components', name:'Комплектующие', description:'Комплектующие для холодильного оборудования: соединения, термостаты и электрические компоненты.'},

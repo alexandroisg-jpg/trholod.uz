@@ -4,9 +4,17 @@ export const categories = ['Все товары','Хладагенты','Хол�
 export const money = (n:number) => new Intl.NumberFormat('ru-RU').format(n)+' сум';
 export const statusNames:Record<string,string>={new:'Новый',processing:'В работе',ready:'Готов к выдаче',completed:'Завершён',cancelled:'Отменён'};
 export {catalogProducts as demoProducts} from './catalog-data';
-export const featuredIds=['premium-r003','trgas-r290-350g','demo-r2','premium-r004','demo-r1','premium-r005','premium-r006','demo-c1','premium-c003','demo-c2','premium-c005','premium-c004','premium-c006'];
+export const featuredIds=['demo-r1','demo-r2','premium-r004','premium-r003','premium-r005','premium-r006','premium-r008','demo-c1','premium-c003','demo-c2','premium-c005','premium-c004'];
 export function catalogRank(id:string){const rank=featuredIds.indexOf(id);return rank<0?100:rank;}
 export const imageLabels:Record<string,string>={
+  "/products/trgas-studio-r134a.webp":"TR GAS R134a · студийная иллюстрация",
+  "/products/trgas-studio-r410a.webp":"TR GAS R410A · студийная иллюстрация",
+  "/products/trgas-studio-r32.webp":"TR GAS R32 · студийная иллюстрация",
+  "/products/trgas-studio-r404a.webp":"TR GAS R404A · студийная иллюстрация",
+  "/products/trgas-studio-r407c.webp":"TR GAS R407C · студийная иллюстрация",
+  "/products/trgas-studio-r600a.webp":"TR GAS R600a · студийная иллюстрация",
+  "/products/trgas-studio-r290.webp":"TR GAS R290 · студийная иллюстрация",
+
   "/products/photo-pending.svg":"Фото упаковки готовится",
   "/products/real-trgas-r290-350g.png":"TR Gas R290 · 350 г",
   "/products/unverified.png":"Фото не подтверждено",
@@ -161,8 +169,8 @@ export const photoCaptions:Record<string,string>={
   "/products/real-compressor-9ps108ha.webp": "Panasonic серии P. На фото 5PS108EAA22 (R410A); модель 9PS108HA — другое исполнение на R32.",
   "/products/real-compressor-9ks170ha.webp": "Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32."
 };
-export function imageCaption(path:string){return hasProductPhoto(path)?photoCaptions[path]||'Фото товарной группы':'Оригинальное фото упаковки готовится';}
-export function modelSource(p:Product){return modelReferences[`${p.brand} ${p.model}`];}
+export function imageCaption(path:string){if(/\/trgas-studio-/.test(path))return 'Студийная иллюстрация. Внешний вид упаковки уточняется при заказе';return hasProductPhoto(path)?photoCaptions[path]||'Фото товарной группы':'Оригинальное фото упаковки готовится';}
+export function modelSource(p:Product){return modelReferences[`${p.brand==='TR GAS'?'TR Gas':p.brand} ${p.model}`];}
 
 export const largeImages:Record<string,string>={
   "/products/compressor.jpg":"/products/compressor.jpg",
@@ -297,3 +305,15 @@ export const priceReferences:Record<string,PriceReference>={
 export function priceReference(p:Product){const ref=priceReferences[p.id];return ref?.price===p.price?ref:undefined;}
 
 export function productPrice(p:Product){return p.price>0?money(p.price):'Цена по запросу';}
+
+// Public presentation omits unconfirmed pack sizes; original owner fields stay in storage.
+export function storefrontProduct(p:Product):Product{
+ if(p.category!=='Хладагенты')return p;
+ const code=p.refrigerant;
+ const description=p.description.replace(/\d+(?:[.,]\d+)?\s*(?:килограмм(?:а|ов)?|грамм(?:а|ов)?|кг|kg|г|g|литров?|литра|л|мл)(?=\s|[.,·;:)(]|$)/gi,'').replace(/(?:маленьк|больш|мал)[а-яё]*\s+(?:баллон|фасовк)[^.!?]*[.!?]?/gi,'').replace(/Фасовка\s*[.,·;]?/gi,'').replace(/\s+([.,;])/g,'$1').trim();
+ return {...p,brand:'TR GAS',series:'TR GAS',title:`Хладагент TR GAS ${code}`,specification:`Для систем на ${code}`,description};
+}
+export function storefrontProducts(products:Product[]):Product[]{
+ const primaryR290=products.some(p=>p.id==='premium-r008'&&p.active&&hasProductPhoto(p.image));
+ return products.filter(p=>p.active&&hasProductPhoto(p.image)&&!(primaryR290&&p.id==='trgas-r290-350g')).map(storefrontProduct);
+}
