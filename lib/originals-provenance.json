@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-22",
+  "checkedAt": "2026-09-24",
   "products": {
     "premium-r003": {
       "fields": {
@@ -47,8 +47,9 @@
         "series": "TR Gas",
         "model": "R410A",
         "specification": "10 кг · баллон",
-        "description": "Хладагент R410A из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
-        "price": 2550000
+        "description": "Хладагент R410A из каталога TR Gas / Tura. Фасовка 10 кг. Совместимость подбирается по паспорту оборудования. Оригинальное фото нужной упаковки готовится.",
+        "price": 2550000,
+        "image": "/products/photo-pending.svg"
       },
       "image": {
         "code": "R410A",
@@ -64,15 +65,17 @@
         "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
         "visibleCodeVerified": true,
         "visibleBrandVerified": true,
-        "status": "verified_logo_and_code",
+        "status": "rejected_refillable_packaging",
         "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
         "referencePriceUzs": 2551025,
         "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
         "conversionTryUzs": 242.01,
-        "recommended": true,
+        "recommended": false,
         "slug": "trgas-r410a",
         "caption": "Оригинальное фото TR Gas · R410A · 10 кг",
-        "label": "TR Gas R410A · 10 кг"
+        "label": "TR Gas R410A · 10 кг",
+        "rejectedAt": "2026-09-24",
+        "rejectionReason": "Owner requires original disposable packaging; removed from site and original-photo selector."
       },
       "source": "https://www.212yedekparca.com/r410a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r410a-sogutucu-gaz",
       "priceReference": {
@@ -88,8 +91,9 @@
         "series": "TR Gas",
         "model": "R32",
         "specification": "9 кг · баллон",
-        "description": "Хладагент R32 из каталога TR Gas / Tura. Фасовка 9 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
-        "price": 2010000
+        "description": "Хладагент R32 из каталога TR Gas / Tura. Фасовка 9 кг. Совместимость подбирается по паспорту оборудования. Оригинальное фото нужной упаковки готовится.",
+        "price": 2010000,
+        "image": "/products/photo-pending.svg"
       },
       "image": {
         "code": "R32",
@@ -103,17 +107,19 @@
         "visibleCodeVerified": true,
         "visibleBrandVerified": false,
         "verification": "Exact refrigerant code and pack size read visually. Manufacturer gallery original; TR-GAS wordmark is not on the visible front label.",
-        "status": "official_catalog_original_not_logo_visible",
+        "status": "rejected_refillable_packaging",
         "priceTry": 8290,
         "priceSource": "https://erolsogutma.com/tr-gas-r32-tekrar-doldurulabilir-tupte-9kg-sogutucu-akiskan",
         "priceNotes": "Actual Turkish reference price in dealer product JSON-LD, checked 2026-09-22, TR Gas R32 9 kg. Not user store price.",
         "referencePriceUzs": 2006263,
         "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
         "conversionTryUzs": 242.01,
-        "recommended": true,
+        "recommended": false,
         "slug": "trgas-r32",
         "caption": "Фото из каталога Tura · R32 · 9 кг",
-        "label": "TR Gas R32 · 9 кг"
+        "label": "TR Gas R32 · 9 кг",
+        "rejectedAt": "2026-09-24",
+        "rejectionReason": "Owner requires original disposable packaging; removed from site and original-photo selector."
       },
       "source": "https://www.turaiklimlendirme.com/en/r32-gas/",
       "priceReference": {
@@ -167,8 +173,9 @@
         "series": "TR Gas",
         "model": "R404A",
         "specification": "10 кг · баллон",
-        "description": "Хладагент R404A из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
-        "price": 1980000
+        "description": "Хладагент R404A из каталога TR Gas / Tura. Фасовка 10 кг. Совместимость подбирается по паспорту оборудования. Оригинальное фото нужной упаковки готовится.",
+        "price": 1980000,
+        "image": "/products/photo-pending.svg"
       },
       "image": {
         "code": "R404A",
@@ -184,15 +191,17 @@
         "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
         "visibleCodeVerified": true,
         "visibleBrandVerified": true,
-        "status": "verified_logo_and_code",
+        "status": "rejected_refillable_packaging",
         "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
         "referencePriceUzs": 1984131,
         "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
         "conversionTryUzs": 242.01,
-        "recommended": true,
+        "recommended": false,
         "slug": "trgas-r404a",
         "caption": "Оригинальное фото TR Gas · R404A · 10 кг",
-        "label": "TR Gas R404A · 10 кг"
+        "label": "TR Gas R404A · 10 кг",
+        "rejectedAt": "2026-09-24",
+        "rejectionReason": "Owner requires original disposable packaging; removed from site and original-photo selector."
       },
       "source": "https://www.212yedekparca.com/r404a-sogutucu-gaz-10-kg-tr-gas-tr-gas-r404a-sogutucu-gaz",
       "priceReference": {
@@ -208,8 +217,9 @@
         "series": "TR Gas",
         "model": "R407C",
         "specification": "10 кг · баллон",
-        "description": "Хладагент R407C из каталога TR Gas / Tura. Фасовка 10 кг. На фотографии — оригинальная упаковка с обозначением хладагента. Совместимость подбирается по паспорту оборудования.",
-        "price": 2550000
+        "description": "Хладагент R407C из каталога TR Gas / Tura. Фасовка 10 кг. Совместимость подбирается по паспорту оборудования. Оригинальное фото нужной упаковки готовится.",
+        "price": 2550000,
+        "image": "/products/photo-pending.svg"
       },
       "image": {
         "code": "R407C",
@@ -225,15 +235,17 @@
         "priceNotes": "Actual Turkish reference price from product JSON-LD on 2026-09-22; includes retailer watermark on image.",
         "visibleCodeVerified": true,
         "visibleBrandVerified": true,
-        "status": "verified_logo_and_code",
+        "status": "rejected_refillable_packaging",
         "verification": "Visually read TR-GAS and exact refrigerant code on gray refillable cylinder. Weight comes from exact product title. Original dealer watermark retained.",
         "referencePriceUzs": 2551025,
         "conversionSource": "https://cbu.uz/ru/arkhiv-kursov-valyut/json/TRY/2026-09-22/",
         "conversionTryUzs": 242.01,
-        "recommended": true,
+        "recommended": false,
         "slug": "trgas-r407c",
         "caption": "Оригинальное фото TR Gas · R407C · 10 кг",
-        "label": "TR Gas R407C · 10 кг"
+        "label": "TR Gas R407C · 10 кг",
+        "rejectedAt": "2026-09-24",
+        "rejectionReason": "Owner requires original disposable packaging; removed from site and original-photo selector."
       },
       "source": "https://www.212yedekparca.com/r407c-sogutucu-gaz-10-kg-tr-gas-tr-gas-r407c-sogutucu-gaz",
       "priceReference": {
@@ -1080,6 +1092,36 @@
         "caption": "Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32.",
         "label": "Panasonic 9KS170HA"
       }
+    },
+    "trgas-r290-350g": {
+      "fields": {
+        "id": "trgas-r290-350g",
+        "sku": "TR-R290-350G",
+        "title": "Хладагент TR Gas R290 · 350 г",
+        "category": "Хладагенты",
+        "description": "Хладагент R290 (пропан) в одноразовом баллончике 350 г из каталога Tura. На оригинальном фото читаются R290 и масса нетто 350 г; логотип TR Gas на лицевой стороне не виден. Совместимость подбирается по паспорту оборудования. Наличие и цена уточняются.",
+        "refrigerant": "R290",
+        "specification": "350 г · одноразовый баллончик",
+        "price": 0,
+        "stock": 0,
+        "image": "/products/real-trgas-r290-350g.png",
+        "active": 1,
+        "demo": 1,
+        "brand": "TR Gas",
+        "model": "R290",
+        "series": "TR Gas"
+      },
+      "image": {
+        "sourcePage": "https://www.turaiklimlendirme.com/en/r290-gas/",
+        "imageUrl": "https://www.turaiklimlendirme.com/wp-content/uploads/2024/05/r290-5.png",
+        "packSize": "350 g",
+        "visibleCodeVerified": true,
+        "visibleBrandVerified": false,
+        "status": "official_catalog_original_not_logo_visible",
+        "caption": "Оригинальное фото из каталога Tura · R290 · 350 г",
+        "rightsInfo": "Original manufacturer image. No explicit reuse license located; unchanged original."
+      },
+      "source": "https://www.turaiklimlendirme.com/en/r290-gas/"
     }
   },
   "retiredIds": [

@@ -1,3 +1,4 @@
+import { updateRefrigerantPackaging } from './refrigerant-photo-update';
 import { env } from 'cloudflare:workers';
 import { getStoreUser } from '@/app/auth';
 import { demoProducts } from './catalog';
@@ -13,7 +14,7 @@ export async function body(req:Request){const text=await req.text();if(text.leng
 
 export async function seed(){
  const d=db();
- if(await d.prepare('SELECT value FROM settings WHERE key=?').bind('seed_originals_v4_release').first())return;
+ if(await d.prepare('SELECT value FROM settings WHERE key=?').bind('seed_originals_v4_release').first()){await updateRefrigerantPackaging(d);return;}
  const reprice=new Set([
   "demo-r1",
   "demo-r2",
@@ -91,4 +92,5 @@ export async function seed(){
   }),
   ...['seed_v1','seed_premium_v2','seed_branded_v3','seed_originals_v4_release'].map(key=>d.prepare('INSERT OR IGNORE INTO settings (key,value) VALUES (?,?)').bind(key,'done'))
  ]);
+ await updateRefrigerantPackaging(d);
 }

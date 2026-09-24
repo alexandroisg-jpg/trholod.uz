@@ -1,11 +1,14 @@
+import { pendingPhotoPath, rejectedProductPhoto } from './refrigerant-photos';
 export type Product = {id:string;sku:string;title:string;brand?:string;model?:string;series?:string;category:string;description:string;refrigerant:string;specification:string;price:number;stock:number;image:string;active:number;demo:number};
 export const categories = ['Все товары','Хладагенты','Холодильные компрессоры','Кондиционерные компрессоры','Комплектующие','Инструменты'];
 export const money = (n:number) => new Intl.NumberFormat('ru-RU').format(n)+' сум';
 export const statusNames:Record<string,string>={new:'Новый',processing:'В работе',ready:'Готов к выдаче',completed:'Завершён',cancelled:'Отменён'};
 export {catalogProducts as demoProducts} from './catalog-data';
-export const featuredIds=['premium-r003','demo-r2','premium-r004','demo-r1','premium-r005','premium-r006','demo-c1','premium-c003','demo-c2','premium-c005','premium-c004','premium-c006'];
+export const featuredIds=['premium-r003','trgas-r290-350g','demo-r2','premium-r004','demo-r1','premium-r005','premium-r006','demo-c1','premium-c003','demo-c2','premium-c005','premium-c004','premium-c006'];
 export function catalogRank(id:string){const rank=featuredIds.indexOf(id);return rank<0?100:rank;}
 export const imageLabels:Record<string,string>={
+  "/products/photo-pending.svg":"Фото упаковки готовится",
+  "/products/real-trgas-r290-350g.png":"TR Gas R290 · 350 г",
   "/products/unverified.png":"Фото не подтверждено",
   "/products/compressor.jpg": "Danfoss / Secop SC18CL",
   "/products/fittings.jpg": "Медные фитинги",
@@ -22,11 +25,7 @@ export const imageLabels:Record<string,string>={
   "/products/panasonic-p-family.webp": "Panasonic · серия P",
   "/products/panasonic-k-family.webp": "Panasonic · серия K",
   "/products/real-trgas-r134a.webp": "TR Gas R134a · 13,6 кг",
-  "/products/real-trgas-r410a.webp": "TR Gas R410A · 10 кг",
   "/products/real-trgas-r600a.webp": "TR Gas R600a · 420 г",
-  "/products/real-trgas-r32.webp": "TR Gas R32 · 9 кг",
-  "/products/real-trgas-r404a.webp": "TR Gas R404A · 10 кг",
-  "/products/real-trgas-r407c.webp": "TR Gas R407C · 10 кг",
   "/products/real-trgas-r290.webp": "TR Gas R290 · 5 кг",
   "/products/real-value-vmg-2-r410a-b.webp": "VALUE VMG-2-R410A-B",
   "/products/real-value-vtc-28.webp": "VALUE VTC-28",
@@ -59,7 +58,9 @@ export const imageLabels:Record<string,string>={
   "/products/real-compressor-9ks170ha.webp": "Panasonic 9KS170HA"
 };
 
-export function productImage(path:string){return imageLabels[path]?path.replace(/\.(jpg|png)$/,'.webp'):path;}
+export function hasProductPhoto(path:string){return !!path && path!==pendingPhotoPath && !rejectedProductPhoto(path) && !/^\/products\/unverified\.(png|webp)$/.test(path);}
+const optimizedImages:Record<string,string> = Object.fromEntries(['compressor','fittings','thermostat','capacitor'].map(name=>[`/products/${name}.jpg`,`/products/${name}.webp`]));
+export function productImage(path:string){return hasProductPhoto(path)?optimizedImages[path]||path:pendingPhotoPath;}
 
 export const modelReferences:Record<string,string>={
   "Danfoss / Secop TLES4.8KK.3": "https://www.secop.com/fileadmin/user_upload/obsolete-compressors/tles48kk3_102h4598_r600a_220v_50hz_03-2014_desd505y102.pdf",
@@ -115,6 +116,7 @@ export const modelReferences:Record<string,string>={
   "VALUE VE245N": "https://www.worldvalue.cn/pro_info/VE245N"
 };
 export const photoCaptions:Record<string,string>={
+  "/products/real-trgas-r290-350g.png":"Оригинальное фото из каталога Tura · R290 · 350 г",
   "/products/compressor.jpg": "Фото Danfoss / Secop SC18CL",
   "/products/embraco-em-family.webp": "Фото серии EM",
   "/products/embraco-ne-family.webp": "Фото серии NE",
@@ -127,11 +129,7 @@ export const photoCaptions:Record<string,string>={
   "/products/panasonic-p-family.webp": "Фото серии P",
   "/products/panasonic-k-family.webp": "Фото серии K",
   "/products/real-trgas-r134a.webp": "Оригинальное фото TR Gas · R134a · 13,6 кг",
-  "/products/real-trgas-r410a.webp": "Оригинальное фото TR Gas · R410A · 10 кг",
   "/products/real-trgas-r600a.webp": "Фото из каталога Tura · R600a · 420 г",
-  "/products/real-trgas-r32.webp": "Фото из каталога Tura · R32 · 9 кг",
-  "/products/real-trgas-r404a.webp": "Оригинальное фото TR Gas · R404A · 10 кг",
-  "/products/real-trgas-r407c.webp": "Оригинальное фото TR Gas · R407C · 10 кг",
   "/products/real-trgas-r290.webp": "Фото из каталога Tura · R290 · 5 кг",
   "/products/real-value-vmg-2-r410a-b.webp": "Фото VALUE VMG-2-R410A-B",
   "/products/real-value-vtc-28.webp": "Фото VALUE VTC-28",
@@ -163,17 +161,13 @@ export const photoCaptions:Record<string,string>={
   "/products/real-compressor-9ps108ha.webp": "Panasonic серии P. На фото 5PS108EAA22 (R410A); модель 9PS108HA — другое исполнение на R32.",
   "/products/real-compressor-9ks170ha.webp": "Panasonic серии K. На фото 5KS170EAB21 (R410A); модель 9KS170HA — другое исполнение на R32."
 };
-export function imageCaption(path:string){return photoCaptions[path]||'Фото товарной группы';}
+export function imageCaption(path:string){return hasProductPhoto(path)?photoCaptions[path]||'Фото товарной группы':'Оригинальное фото упаковки готовится';}
 export function modelSource(p:Product){return modelReferences[`${p.brand} ${p.model}`];}
 
 export const largeImages:Record<string,string>={
   "/products/compressor.jpg":"/products/compressor.jpg",
   "/products/real-trgas-r134a.webp": "/products/real-trgas-r134a-full.webp",
-  "/products/real-trgas-r410a.webp": "/products/real-trgas-r410a-full.webp",
   "/products/real-trgas-r600a.webp": "/products/real-trgas-r600a-full.webp",
-  "/products/real-trgas-r32.webp": "/products/real-trgas-r32-full.webp",
-  "/products/real-trgas-r404a.webp": "/products/real-trgas-r404a-full.webp",
-  "/products/real-trgas-r407c.webp": "/products/real-trgas-r407c-full.webp",
   "/products/real-trgas-r290.webp": "/products/real-trgas-r290-full.webp",
   "/products/real-value-vmg-2-r410a-b.webp": "/products/real-value-vmg-2-r410a-b-full.webp",
   "/products/real-value-vtc-28.webp": "/products/real-value-vtc-28-full.webp",
@@ -205,7 +199,7 @@ export const largeImages:Record<string,string>={
   "/products/real-compressor-9ps108ha.webp": "/products/real-compressor-9ps108ha-full.webp",
   "/products/real-compressor-9ks170ha.webp": "/products/real-compressor-9ks170ha-full.webp"
 };
-export function largeProductImage(path:string){return largeImages[path]||productImage(path);}
+export function largeProductImage(path:string){return hasProductPhoto(path)?largeImages[path]||productImage(path):pendingPhotoPath;}
 export type PriceReference={price:number;url:string;label:string;checkedAt:string;note:string};
 export const priceReferences:Record<string,PriceReference>={
   "demo-r1": {
